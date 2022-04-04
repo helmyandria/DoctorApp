@@ -1,13 +1,13 @@
 import firebase from 'firebase';
 
 firebase.initializeApp({
-  apiKey: 'AIzaSyAEsqrtHr1kt9zm3DNsDscEx02mDccgVJY',
-  authDomain: 'my-doctor-01-5204e.firebaseapp.com',
-  databaseURL: 'https://my-doctor-01-5204e.firebaseio.com',
-  projectId: 'my-doctor-01-5204e',
-  storageBucket: 'my-doctor-01-5204e.appspot.com',
-  messagingSenderId: '399645842046',
-  appId: '1:399645842046:web:23eef2493ad4fe6f68d62f',
+  apiKey: 'AIzaSyDlE91j20RfKcOGtPdYZmCIqWhesxTBHSw',
+  authDomain: 'my-doctor-01-cc9ae.firebaseapp.com',
+  databaseURL: 'https://my-doctor-01-cc9ae-default-rtdb.firebaseio.com',
+  projectId: 'my-doctor-01-cc9ae',
+  storageBucket: 'my-doctor-01-cc9ae.appspot.com',
+  messagingSenderId: '840776710342',
+  appId: '1:840776710342:web:02a7bd1f891879b9e73fc7',
 });
 
 const Fire = firebase;

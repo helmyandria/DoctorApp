@@ -1,0 +1,6 @@
+module Pods_DoctorApp_DoctorAppTests {
+  umbrella header "Pods-DoctorApp-DoctorAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

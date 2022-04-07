@@ -1,0 +1,4 @@
+#Thu Apr 07 08:57:36 WIB 2022
+base.0=/Users/eko.asputro/Documents/Git-Repo/DoctorApp/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
